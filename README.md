@@ -71,7 +71,7 @@ class MyComponent extends Component {
     const inputProps = {
       id: 'my-autosuggest',
       name: 'my-autosuggest',
-      placeholder: 'Enter an office name',
+      placeholder: 'Empire Travels',
       value,
       onChange: this.onChange,
     };
